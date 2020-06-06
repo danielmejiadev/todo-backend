@@ -4,7 +4,11 @@
   "description": "A backend REST-API to manage a todo app endpoints",
   "author": "Daniel Mejia",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielmejiadev/todo-backend.git/issues"
+  },
+  "homepage": "https://github.com/danielmejiadev/todo-backend.git#readme",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
