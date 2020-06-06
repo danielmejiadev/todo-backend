@@ -1,16 +1,13 @@
 # Todo-Backend
-Please check live [API documentation](http://todo-app-backend-api.herokuapp.com/docs/)
 
 ## Description
 A backend REST-API to manage a todo app endpoints.
 
+To check live running visit [REST-API](http://todo-app-backend-api.herokuapp.com/docs/) for more information.
+
 ## Installation
 
 ```bash
-# yarn
-$ yarn install
-
-# or with npm
 $ npm install
 ```
 
@@ -18,7 +15,7 @@ $ npm install
 
 ```bash
 # development
-$ npm run start or yarn start
+$ npm run start
 
 # watch mode
 $ npm run start:dev
@@ -33,17 +30,13 @@ $ npm run start:prod
 # unit tests
 $ npm run test
 
-# e2e tests
-$ npm run test:e2e
-
 # test coverage
 $ npm run test:cov
 ```
 
 ## Stay in touch
 
-- Author - [Daniel Mejia](https://kamilmysliwiec.com)
-- Website - [Github](https://github.com/danielmejiadev)
+- Author - [Daniel Mejia](https://github.com/danielmejiadev)
 
 ## License
 
