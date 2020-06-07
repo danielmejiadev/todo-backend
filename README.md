@@ -3,8 +3,6 @@
 ## Description
 A backend REST-API to manage a todo app endpoints.
 
-To check live running visit [REST-API](http://todo-app-backend-api.herokuapp.com/docs/) for more information.
-
 ## Installation
 
 ```bash
